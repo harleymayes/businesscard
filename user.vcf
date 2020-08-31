@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Mayes;Harley;;;
+FN: Harley Mayes 
+ORG:Torbay and South Devon NHS Foundation Trust;
+TITLE:Administration Assistant\nTorbay Carers Service
+EMAIL;type=INTERNET;type=WORK;type=pref:harley.mayes@nhs.net
+TEL;type=MOBILE;type=VOICE:+447480966278
+item1.ADR;type=WORK;type=pref:;;The Cabin\nBrixham Hospital\nGreenswood Road, Brixham;;;TQ5 9HW;United Kingdom
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.torbayandsouthdevon.nhs.uk/services/carers-service/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
